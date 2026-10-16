@@ -6,7 +6,7 @@
 
 ## 发布状态
 
-本仓库用于发布软件和使用说明，不发布管理器业务源码。当前提供 **0.2.29 测试版**。
+本仓库用于发布软件和使用说明，不发布管理器业务源码。当前提供 **0.2.30 测试版**。
 
 请在 [Releases](https://github.com/laoxiong-lab/material-manager-releases/releases) 页面获取安装包。
 
